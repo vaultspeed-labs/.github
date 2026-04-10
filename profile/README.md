@@ -11,8 +11,7 @@ bespoke tooling.
 ## Questions?
 
 Have a question about one of these tools or want to explore how they fit your project?
-Reach out to the VaultSpeed team at [vaultspeed.com/contact](https://www.vaultspeed.com/contact).
----
+Reach out to the VaultSpeed team at [vaultspeed.com/contact](https://www.vaultspeed.com/contact).---
 
 ## Template and Metadata Portability
 
